@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dominio.unitaria.BibliotecarioTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-07-09T16:06:14" hostname="THOMASGIL" time="0.072">
+  <properties/>
+  <testcase name="calcularFechaDeEntregaMaximo15DiasEnDomingo" classname="dominio.unitaria.BibliotecarioTest" time="0.063"/>
+  <testcase name="isbnEsPalindromo" classname="dominio.unitaria.BibliotecarioTest" time="0.0"/>
+  <testcase name="esPrestadoTest" classname="dominio.unitaria.BibliotecarioTest" time="0.007"/>
+  <testcase name="isbnNoEsPalindromo" classname="dominio.unitaria.BibliotecarioTest" time="0.0"/>
+  <testcase name="calcularFechaDeEntregaNoCumpleConRequisitos" classname="dominio.unitaria.BibliotecarioTest" time="0.001"/>
+  <testcase name="libroNoPrestadoTest" classname="dominio.unitaria.BibliotecarioTest" time="0.0"/>
+  <testcase name="calcularFechaDeEntregaMaximo15Dias" classname="dominio.unitaria.BibliotecarioTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
